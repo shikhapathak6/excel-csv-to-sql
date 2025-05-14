@@ -1,4 +1,4 @@
-# Excel/CSV to MySQL INSERT IGNORE SQL Generator
+# Excel/CSV to MySQL INSERT SQL Generator
 
 This script converts rows from multiple Excel (`.xlsx`) or CSV files into MySQL-compatible `INSERT IGNORE` SQL statements.
 
