@@ -17,6 +17,11 @@ Install packages:
 ```bash
 pip install -r requirements.txt
 ```
+OR
+```bash
+pip install pandas openpyxl
+```
+
 
 ## 🚀 Usage
 1. Put `.xlsx`/`.csv` files in a folder (e.g., `C:/excel_to_sql`)
