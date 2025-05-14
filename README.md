@@ -24,7 +24,7 @@ pip install pandas openpyxl
 
 
 ## 🚀 Usage
-1. Put `.xlsx`/`.csv` files in a folder (e.g., `C:/excel_to_sql`)
+1. Put `.xlsx`/`.csv` files in a folder (e.g., `C:/excel_csv_to_sql`)
 2. Edit `generate_sql.py`: set `folder_path` and `table_name`
 3. Run:
 ```bash
